@@ -1,0 +1,30 @@
+{
+  "name": "webpack2.0_demo",
+  "version": "1.0.0",
+  "description": "study for webpack2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "keywords": [
+    "webpack2.0"
+  ],
+  "author": "pc",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "css-loader": "^0.28.4",
+    "style-loader": "^0.18.2",
+    "webpack": "^2.6.1"
+  },
+  "dependencies": {
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.5.2",
+    "extract-loader": "^0.1.0",
+    "extract-text-webpack-plugin": "^2.1.2",
+    "file-loader": "^0.11.2",
+    "html-loader": "^0.4.5",
+    "url-loader": "^0.5.8"
+  }
+}

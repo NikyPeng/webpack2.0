@@ -1,0 +1,45 @@
+@charset "utf-8";
+*{
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+body{
+	font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft Yahei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", sans-serif;
+	font-size: 14px;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: url('../../assets/images/bg.jpg') no-repeat center top;
+}
+p{
+	line-height: 80px;
+	border-bottom: 1px solid #aaa;
+}
+.one{
+	width: 410px;
+	height: 502px;
+	background: url('../../assets/images/father_son_four.png') no-repeat center top;
+}
+.leaf_one{
+	width: 72px;
+	height: 54px;
+	background: url('../../assets/images/leaf_01.png') no-repeat center top;
+}
+.leaf_two{
+	width: 40px;
+	height: 40px;
+	background: url('../../assets/images/leaf_02.png') no-repeat center top;
+}
+.leaf_three{
+	width: 50px;
+	height: 88px;
+	background: url('../../assets/images/leaf_03.png') no-repeat center top;
+}
+.leaf_one{
+	width: 48px;
+	height: 26px;
+	background: url('../../assets/images/leaf_04.png') no-repeat center top;
+}

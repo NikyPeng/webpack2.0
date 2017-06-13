@@ -1,0 +1,40 @@
+@charset "utf-8";
+*{
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+body{
+	font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft Yahei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", sans-serif;
+	font-size: 14px;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: url('../../assets/images/bg.jpg') no-repeat center top;
+}
+p{
+	line-height: 80px;
+	border-bottom: 1px solid #aaa;
+}
+.one{
+	width: 440px;
+	height: 490px;
+	background: url('../../assets/images/father_son_two.png') no-repeat center top;
+}
+.two{
+	width: 505px;
+	height: 535px;
+	background: url('../../assets/images/father_son_six.png') no-repeat center top;
+}
+.cloud_left{
+	width: 152px;
+	height: 76px;
+	background: url('../../assets/images/cloud_01.png') no-repeat center top;
+}
+.cloud_right{
+	width: 110px;
+	height: 55px;
+	background: url('../../assets/images/cloud_02.png') no-repeat center top;
+}

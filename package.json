@@ -1,0 +1,19 @@
+{
+  "name": "webpack_async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --config webpack.config.js"
+  },
+  "author": "pc",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.1.1"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^3.0.7",
+    "webpack-cli": "^2.0.12"
+  }
+}
